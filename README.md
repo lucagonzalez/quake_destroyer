@@ -1,16 +1,13 @@
-# quake_destroyer
+# Quake Destroyer
 
-2022 Nasa Spaceapps Challenge
+### 2022 Nasa Spaceapps Challenge
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+We created a data analysis tool that takes information from the USGS Earthquake Catalog and we display it intuitively on a map  on the phone. The app shows earthquakes and all the details  about them, taking the user straight to the USGS website.
 
-A few resources to get you started if this is your first Flutter project:
+The app also helps the user understand the scale of an earthquake by challenging the user to shake the phone and see how that movement would translate as an earthquake. It also compares the user's result with real earthquake data
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![home_screen](https://raw.githubusercontent.com/lucagonzalez/quake_destroyer/main/assets/images/home.png)
+![play_screen](https://raw.githubusercontent.com/lucagonzalez/quake_destroyer/main/assets/images/play.png)
+![data_screen](https://raw.githubusercontent.com/lucagonzalez/quake_destroyer/main/assets/images/data.png)
