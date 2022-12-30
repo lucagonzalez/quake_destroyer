@@ -2,6 +2,8 @@
 
 ### 2022 Nasa Spaceapps Challenge
 
+### 1st prize of Valencia 2022!!
+
 
 We created a data analysis tool that takes information from the USGS Earthquake Catalog and we display it intuitively on a map  on the phone. The app shows earthquakes and all the details  about them, taking the user straight to the USGS website.
 
